@@ -63,7 +63,7 @@ const Header: NextPage = () => {
           <div className="float-right mt-4 mx-6">
             <Link href="/">
               <p className="text-3xl text-[#344D34] font-black cursor-pointer">
-                NFT Marketplace
+                Carbon Marketplace
               </p>
             </Link>
           </div>

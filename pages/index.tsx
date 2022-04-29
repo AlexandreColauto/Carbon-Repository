@@ -29,7 +29,7 @@ const Home: NextPage = () => {
           </div>
         </div>
         <div className="mt-3">
-          <Image src="/logo.png" alt="logo" width="650" height="490" />
+          <Image src="/header.png" alt="logo" width="650" height="490" />
         </div>
       </div>
     </div>

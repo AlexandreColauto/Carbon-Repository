@@ -52,7 +52,7 @@ function Footer() {
                     <Image src="/logo.png" alt="logo" width="30" height="30" />
                   </div>
                   <p className="text-[#F2F2F2] ml-2 text-xl font-bold float-right">
-                    NFT Marketplace{" "}
+                    Carbon Marketplace{" "}
                   </p>
                 </div>
               </li>
